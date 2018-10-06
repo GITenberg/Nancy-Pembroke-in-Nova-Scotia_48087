@@ -319,7 +319,7 @@ your own.”
 The suggestions were difficult to make, but
 Mrs. Pembroke presented them in so gentle and
 charming a manner, that a girl considerably
-more sensitive than Emma. Kane could hardly
+more sensitive than Emma Kane could hardly
 have taken offense. She gave all her attention
 at this point to a difficult spray in the
 embroidery pattern, and Emma thought about the
@@ -3699,7 +3699,7 @@ herself,” interrupted Nancy.
   .. vspace:: 1
 
   .. class:: noindent white-space-pre-line
-  
+
      “‘Love to you and your pals,
      “‘Alicia Perkins.’”
 
